@@ -1,4 +1,4 @@
 = A cheval entre deux échos
 Hadrien G. <knights_of_ni@gmx.com>
 
-// Il n'y a rien là dedans... pour le moment !
+// Il n'y a rien là dedans... pour le moment ! Mais ça va venir...
