@@ -28,7 +28,7 @@ for index in `find -name "index.adoc"` ; do
 done
 
 # Commit the resulting rendered documents
-git commit -m "Rendered new documents"
+git commit --quiet -m "Rendered new documents"
 
 # Return to the previous branch
 git checkout --quiet $PREVIOUS_BRANCH
