@@ -11,7 +11,7 @@ echo "Rendering committed documentation..."
 # Get gh-pages up to speed with the latest and greatest in master
 PREVIOUS_BRANCH=`git rev-parse --abbrev-ref HEAD`
 git checkout --quiet gh-pages
-git merge --quiet -m "Updated to latest master changes"
+git merge --quiet -m "Updated to latest master changes" master
 
 # Render the Asciidoc documents, keeping track of files we create
 # and adding them to the git staging area.
@@ -29,6 +29,9 @@ done
 
 # Commit the resulting rendered documents
 git commit -m "Rendered new documents"
+
+# Return to the previous branch
+git checkout --quiet $PREVIOUS_BRANCH
 
 # Now our index and working directory states are just right.
 # Leave a blank line to isolate docgen output from git push output.
