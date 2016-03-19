@@ -1,4 +1,5 @@
 = À cheval entre deux échos
 Hadrien G. <knights_of_ni@gmx.com>
+:toc: left
 
 // Il n'y a rien là dedans... pour le moment ! Mais ça va venir...
