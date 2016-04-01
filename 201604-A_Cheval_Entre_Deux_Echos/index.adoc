@@ -2,4 +2,8 @@
 Hadrien G. <knights_of_ni@gmx.com>
 :toc: left
 
+include::prologue.adoc[]
+
+:sectnums:
+
 // Il n'y a rien là dedans... pour le moment ! Mais ça va venir...
