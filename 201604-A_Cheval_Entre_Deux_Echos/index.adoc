@@ -3,6 +3,8 @@ Hadrien G. <knights_of_ni@gmx.com>
 :toc: left
 :toc-title: Sommaire
 
+:sectnums!:
+
 include::prologue.adoc[]
 
 :sectnums:
