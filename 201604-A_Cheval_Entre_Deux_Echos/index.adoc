@@ -1,6 +1,7 @@
 = À cheval entre deux échos
 Hadrien G. <knights_of_ni@gmx.com>
 :toc: left
+:toc-title: Sommaire
 
 include::prologue.adoc[]
 
