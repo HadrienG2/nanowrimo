@@ -43,3 +43,19 @@ A quoi s'attendait-elle ?
 Elle s'attendait à ce que la montre revienne dans le passé au temps stem:[T_1], reste la machine pour une durée stem:[T_2 - T_1], et affiche donc au moment où elle la sortirait de la machine une heure stem:[T_3 = T_2 + (T_2 - T_1) != T_2].
 
 Mais ce n'est pas ce qu'elle a observé. Pourquoi donc ?
+
+Jeanine sirote son café et constate qu'il est maintenant froid. Beurk. Pendant ce temps, le sujet de discussion de ses collègues a dévié vers la question des enfants et de la manière optimale de les châtier lorsqu'ils deviennent insupportables.
+
+Jeanine se sent encore moins concernée qu'auparavant. Ce sujet ne la laisse pas seulement indifférente, elle le trouve particulièrement désagréable.
+
+C'est alors que le déclic vient, et qu'elle se rappelle soudain d'une hypothèse qu'elle avait formulée il y a très longtemps, lorsqu'elle commençait juste à formuler les premiers balbutiements de sa théorie du voyage temporel.
+
+Et si, non content de revenir à leur point d'origine dans le temps, les objets revenaient aussi à leur point d'origine dans l'espace ?
+
+Et si, dans le nouveau passé que sa machine avait créé, la montre qu'elle avait lue à son poignet au point A n'était autre que celle qui venait du futur, affichant le temps stem:[T_2] alors même qu'elle se trouvait au temps stem:[T_1] ?
+
+Dans ce cas, dans cette nouvelle trame temporelle, Jeanine aurait cru qu'il était stem:[T_2] quand il était stem:[T_1], et qu'il était stem:[T_3] quand il était stem:[T_2]... d'où l'absence apparente d'évolution de la montre lors de son séjour dans le transporteur !
+
+Jeanine regarde sa montre : 10h10. Puis elle sort son téléphone portable de veille : 10h08.
+
+Bingo !
