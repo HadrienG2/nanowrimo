@@ -2,6 +2,7 @@
 Hadrien G. <knights_of_ni@gmx.com>
 :toc: left
 :toc-title: Sommaire
+:stem:
 
 :numbered!:
 
