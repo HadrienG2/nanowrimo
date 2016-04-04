@@ -56,6 +56,6 @@ Et si, dans le nouveau passé que sa machine avait créé, la montre qu'elle ava
 
 Dans ce cas, dans cette nouvelle trame temporelle, Jeanine aurait cru qu'il était stem:[T_2] quand il était stem:[T_1], et qu'il était stem:[T_3] quand il était stem:[T_2]... d'où l'absence apparente d'évolution de la montre lors de son séjour dans le transporteur !
 
-Jeanine regarde sa montre : 10h10. Puis elle sort son téléphone portable de veille : 10h08.
+Jeanine regarde sa montre. 10h10. Puis, posément, elle sort son téléphone portable de veille. 10h08.
 
 Bingo !
