@@ -15,3 +15,5 @@ include::chapitre1.adoc[]
 include::chapitre2.adoc[]
 
 include::chapitre3.adoc[]
+
+include::chapitre4.adoc[]
